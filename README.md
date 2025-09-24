@@ -1,3 +1,3 @@
 # animated-happiness
 
-This is the import README file.
+This is the important README file.
